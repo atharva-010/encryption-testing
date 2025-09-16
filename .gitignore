@@ -67,6 +67,5 @@ coverage.xml
 # Encrypted uploads
 uploads/*
 
-# Keys and logs
+# Keys only
 *.key
-*.json
